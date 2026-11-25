@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xoIfQBqxRUw=",
   "success": true,
   "projectFilePath": "D:\\CasePoint\\C_Group\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
+=======
+  "dgSpecHash": "ImsTTVjx1LQ=",
+  "success": true,
+  "projectFilePath": "D:\\CasePoint Intership\\Group C\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
+>>>>>>> Ayush
   "expectedPackageFiles": [],
   "logs": []
 }
