@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CasePoint Intership\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
+      "projectUniqueName": "D:\\CasePoint Intership\\Group C\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
       "projectName": "Git_try_1",
-      "projectPath": "D:\\CasePoint Intership\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
+      "projectPath": "D:\\CasePoint Intership\\Group C\\Demo_Git_try1\\Git_try_1\\Git_try_1.csproj",
       "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-      "outputPath": "D:\\CasePoint Intership\\Demo_Git_try1\\Git_try_1\\obj\\",
+      "outputPath": "D:\\CasePoint Intership\\Group C\\Demo_Git_try1\\Git_try_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayush\\AppData\\Roaming\\NuGet\\NuGet.Config"
